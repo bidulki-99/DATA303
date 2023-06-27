@@ -1,7 +1,8 @@
 # DATA303
 
 ## HW1: Image Generation with off-the-shelf algorithms
-Generate awesome images for DATA303 using off-the-shelf generative models. 
+Generate awesome images for DATA303 using off-the-shelf generative models.
+
 == Examples ==
 * DALLE2
 * Stable diffusion
