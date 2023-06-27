@@ -1,0 +1,6 @@
+latent_dims = 200
+num_epochs = 40
+batch_size = 512
+# batch_size = 128
+learning_rate = 5e-5
+use_gpu = True
